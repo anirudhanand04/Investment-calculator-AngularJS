@@ -1,3 +1,7 @@
+
+![Screenshot 2024-11-15 044119](https://github.com/user-attachments/assets/375eba47-fd23-4b15-ac87-9fc74d62e164)
+
+
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
